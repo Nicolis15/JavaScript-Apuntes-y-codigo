@@ -53,7 +53,7 @@ console.log(simpleArr); // ['apple','pear','plum']
 */
 
 
-
+/*
 
 var clothes = [];
 clothes.push('gray t-shirt');
@@ -74,3 +74,6 @@ dog["type"] = "corgi";
 
 
 console.log(dog)
+*/
+
+console.log('perro'+1)
