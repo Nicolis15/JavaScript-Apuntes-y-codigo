@@ -14,5 +14,11 @@ class WithDefaultParams {
         return "The value of bool1 is incorrect"
     }
 }
-var better = new WithDefaultParams(num1 =30);
+var better = new WithDefaultParams(num1 = 30);
 better.calculate(); // Result: 6
+
+
+var result = {
+    value: 7
+  };
+  console.log(JSON.stringify(result));
